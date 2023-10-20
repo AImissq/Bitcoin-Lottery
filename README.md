@@ -1,6 +1,8 @@
 # Bitcoin-Lottery
 Find Bitcoin Lost and abandoned Wallets
 
+Working demo version hosted on netlify - try your luck!  https://wonderful-entremet-851042.netlify.app/
+
 Originally coded by Mizogg - modified and optimized for local use by ackroydai
 
 git clone https://github.com/AImissq/Bitcoin-Lottery.git
